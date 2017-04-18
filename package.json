@@ -7,6 +7,6 @@
     "node": "0.6.x"
   },
   "scripts": {
-    "start": "node web.js"
+    "start": "node writetest.js"
   }
 }
